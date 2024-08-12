@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+body {
+  background-color:#ee68af
+}
+
+
+p {
+  text-align: center;
+}
+
+#red {
+  color:red
+}
+
+#oragne {
+  color:orange
+}
+
+#yellow {
+  color:yellow
+}
+
+#green {
+  color:green
+}
+
+#blue {
+  color:blue
+}
+
+#indigo {
+  color:indigo
+}
+
+#violet {
+  color:violet
+}
+
+.even{
+  color:red;
+}
+
+#big{
+  width: 80%;
+}
+
+.small{
+    width:30%
+}
+
+h1{
+  margin-left:10vw;
+}
+#TK{
+  font-family: Papyrus;
+}
+
+.group{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
